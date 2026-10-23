@@ -1,0 +1,7 @@
+def tampilkan_identitas():
+    print("Nama: Chetterina Claudia Maulida")
+    print("NIM: 6726600024")
+    print("Program Studi: Sistem Informasi")
+
+tampilkan_identitas()
+tampilkan_identitas()

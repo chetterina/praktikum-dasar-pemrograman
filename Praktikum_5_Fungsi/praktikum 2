@@ -1,0 +1,8 @@
+def sapa_mahasiswa(nama, sapaan='Selamat belajar'):
+    print(f"{sapaan}, {nama}!")
+
+# Pemanggilan pertama: memberikan kedua argumen
+sapa_mahasiswa("Andi", "Selamat pagi")
+
+# Pemanggilan kedua: hanya memberikan nama
+sapa_mahasiswa("Andi")
